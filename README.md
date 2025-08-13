@@ -8,8 +8,8 @@ This repo contains my SQL practice notebooks from the Masterschool data analytic
 | --- | --- | --- | --- |
 | 01 | Lecture: Introduction to SQL | Chinook | [Notebook 01](/01_introduction_to_sql.ipynb) |
 | 02 | Lecture: SQL Practice - British Airways | British Airways | [Notebook 02](/02_practice_british_airways.ipynb) |
-| 03 | Lecture: SQL Practice - Chinook | Chinook | [Notebook 03](/03_practice_chinook.ipynb) |
-| 04 | Challenge: British Airways I | British Airways | [] |
+| 03 | Challenge: British Airways I | British Airways | [] |
+| 04 | Lecture: SQL Practice - Chinook | Chinook | [Notebook 04](/04_practice_chinook.ipynb) |
 | 05 | Lecture: Aggregation | - | [] |
 | 06 | Lecture: Group by | - | [] |
 | 07 | Lecture: Intro to Joins | - | [] |
