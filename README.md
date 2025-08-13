@@ -23,7 +23,7 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
 | [Notebook 04](/04_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
-| 05 | Lecture | Aggregation | - |
+| [Notebook 05](/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
 | 06 | Lecture | Group by | - |
 | 07 | Lecture | Intro to Joins | - |
 | 08 | Challenge | Meta Revenue I | Meta Revenue |
