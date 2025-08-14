@@ -12,9 +12,9 @@ Learn the basics of SQL, including query structure and filtering data. Understan
 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
-| [Notebook 01](/01_introduction_to_sql.ipynb) | Lecture | Introduction to SQL | Chinook |
-| [Notebook 02](/02_practice_british_airways.ipynb) | Lecture | SQL Practice | British Airways |
-| [Notebook 03](/03_challenge_british_airways_1.ipynb) | Challenge | British Airways I | British Airways |
+| [Notebook 01](/notebooks/01_introduction_to_sql.ipynb) | Lecture | Introduction to SQL | Chinook |
+| [Notebook 02](/notebooks/02_practice_british_airways.ipynb) | Lecture | SQL Practice | British Airways |
+| [Notebook 03](/notebooks/03_challenge_british_airways_1.ipynb) | Challenge | British Airways I | British Airways |
 
 ### Sprint 2: Aggregations & Custom Data Manipulation
 
@@ -22,9 +22,9 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
-| [Notebook 04](/04_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
-| [Notebook 05](/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
-| 06 | Lecture | Group by | - |
+| [Notebook 04](/notebooks/04_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
+| [Notebook 05](/notebooks/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
+| [Notebook 06](/notebooks/06_group_by.ipynb) | Lecture | Group by | Chinook |
 | 07 | Lecture | Intro to Joins | - |
 | 08 | Challenge | Meta Revenue I | Meta Revenue |
 | 09 | Challenge | British Airways II | British Airways |
