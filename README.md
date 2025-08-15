@@ -27,8 +27,8 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 | [Notebook 06](/notebooks/06_group_by.ipynb) | Lecture | Group by | Chinook |
 | [Notebook 07](/notebooks/07_intro_to_joins.ipynb) | Lecture | Intro to Joins | Chinook |
 | [Notebook 08](/notebooks/08_challenge_meta_revenue_1.ipynb) | Challenge | Meta Revenue I | Meta Revenue |
-| 09 | Challenge | British Airways II | British Airways |
-| 10 | Challenge | Meta Revenue II | Meta Revenue |
+| [Notebook 09](/notebooks/09_challenge_meta_revenue_2.ipynb) | Challenge | Meta Revenue II | Meta Revenue |
+| [Notebook 10](/notebooks/10_challenge_british_airways_2.ipynb) | Challenge | British Airways II | British Airways |
 
 ### Sprint 3: Working with Multiple Tables
 
