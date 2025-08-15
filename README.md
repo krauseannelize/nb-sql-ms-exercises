@@ -25,8 +25,8 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 | [Notebook 04](/notebooks/04_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
 | [Notebook 05](/notebooks/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
 | [Notebook 06](/notebooks/06_group_by.ipynb) | Lecture | Group by | Chinook |
-| 07 | Lecture | Intro to Joins | - |
-| 08 | Challenge | Meta Revenue I | Meta Revenue |
+| [Notebook 07](/notebooks/07_intro_to_joins.ipynb) | Lecture | Intro to Joins | Chinook |
+| [Notebook 08](/notebooks/08_challenge_meta_revenue_1.ipynb) | Challenge | Meta Revenue I | Meta Revenue |
 | 09 | Challenge | British Airways II | British Airways |
 | 10 | Challenge | Meta Revenue II | Meta Revenue |
 
