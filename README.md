@@ -25,7 +25,7 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 | [Notebook 04](/notebooks/04_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
 | [Notebook 05](/notebooks/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
 | [Notebook 06](/notebooks/06_group_by.ipynb) | Lecture | Group by | Chinook |
-| [Notebook 07](/notebooks/07_intro_to_joins.ipynb) | Lecture | Intro to Joins | Chinook |
+| [Notebook 07](/notebooks/07_intro_to_joins.ipynb) | Lecture | Intro to JOINS | Chinook |
 | [Notebook 08](/notebooks/08_challenge_meta_revenue_1.ipynb) | Challenge | Meta Revenue I | Meta Revenue |
 | [Notebook 09](/notebooks/09_challenge_meta_revenue_2.ipynb) | Challenge | Meta Revenue II | Meta Revenue |
 | [Notebook 10](/notebooks/10_challenge_british_airways_2.ipynb) | Challenge | British Airways II | British Airways |
@@ -36,8 +36,8 @@ Master JOIN operations to combine columns from different tables. Use UNION opera
 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
-| 11 | Lecture | Joins: A Closer Look | - |
-| 12 | Lecture | Unions | - |
+| [Notebook 11](/notebooks/11_joins_closer_look.ipynb) | Lecture | JOINS: A Closer Look | Chinook |
+| [Notebook 12](/notebooks/12_unions_except_intersect.ipynb) | Lecture | UNION, EXCEPT & INTERSECT | Chinook |
 | 13 | Lecture | SQL Practice | Chinook |
 | 14 | Lecture | Practice - Business Cases | - |
 | 15 | Challenge | Nike I | Nike |
