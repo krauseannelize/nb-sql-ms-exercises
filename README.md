@@ -39,7 +39,7 @@ Master JOIN operations to combine columns from different tables. Use UNION opera
 | [Notebook 11](/notebooks/11_joins_closer_look.ipynb) | Lecture | JOINS: A Closer Look | Chinook |
 | [Notebook 12](/notebooks/12_unions_except_intersect.ipynb) | Lecture | UNION, EXCEPT & INTERSECT | Chinook |
 | [Notebook 13](/notebooks/13_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
-| 14 | Lecture | Practice - Business Cases | - |
+| [Notebook 14](/notebooks/14_business_case_nike.ipynb) | Lecture | Business Cases | Nike |
 | 15 | Challenge | Nike I | Nike |
 | 16 | Challenge | Nike II | Nike |
 
