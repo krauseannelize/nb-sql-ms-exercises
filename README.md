@@ -43,6 +43,18 @@ Master JOIN operations to combine columns from different tables. Use UNION opera
 | [Notebook 15](/notebooks/15_challenge_nike_1.ipynb) | Challenge | Nike I | Nike |
 | [Notebook 16](/notebooks/16_challenge_nike_2.ipynb) | Challenge | Nike II | Nike |
 
+### Sprint 4: Unicorn Project & Practice Exercises
+
+Sprint 4 centers around the Unicorn Project, a multi-part case study that integrates SQL, spreadsheets, and Tableau to simulate real-world data analytics work. The full Unicorn Project is documented in a separate repository: [Unicorn Performance Analysis](https://github.com/krauseannelize/da-ms-unicorn-performance).
+
+This sprint also includes targeted practice notebooks focused on core SQL concepts.
+
+| Notebook | Type | Topic | Dataset(s) |
+| --- | --- | --- | --- |
+| 17 | Challenge | British Airways III | British Airways |
+| 18 | Challenge | Meta Revenue III | Meta Revenue |
+| 19 | Challenge | Nike III | Nike |
+
 ## Advanced SQL
 
 ## Sprint 1: Multi-Table Queries & Joins
