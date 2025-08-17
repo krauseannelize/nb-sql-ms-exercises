@@ -51,9 +51,9 @@ This sprint also includes targeted practice notebooks focused on core SQL concep
 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
-| 17 | Challenge | British Airways III | British Airways |
-| 18 | Challenge | Meta Revenue III | Meta Revenue |
-| 19 | Challenge | Nike III | Nike |
+| [Notebook 17](/notebooks/17_challenge_british_airways_3.ipynb) | Challenge | British Airways III | British Airways |
+| [Notebook 18](/notebooks/18_challenge_meta_revenue_3.ipynb) | Challenge | Meta Revenue III | Meta Revenue |
+| [Notebook 19](/notebooks/19_challenge_nike_3.ipynb) | Challenge | Nike III | Nike |
 
 ## Advanced SQL
 
