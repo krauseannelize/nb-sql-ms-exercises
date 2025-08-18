@@ -67,8 +67,9 @@ Work with multiple joins to extract and combine information from different sourc
 | [Notebook 21](/notebooks/21_left_joins_missing_keys.ipynb) | Lecture | Left Join & Missing Keys | Advanced British Airways |
 | [Notebook 22](/notebooks/22_subqueries.ipynb) | Lecture | Subqueries | Advanced British Airways |
 | [Notebook 23](/notebooks/23_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
-| 24 | Challenge | British Airways I | Advanced British Airways |
+| [Notebook 24](/notebooks/24_exercises_multi_joins.ipynb) | Exercises | Multi Joins in Actions | Advanced British Airways |
 | 25 | Challenge | British Airways I | Advanced British Airways |
+| 26 | Challenge | British Airways II | Advanced British Airways |
 
 ## Sprint 2: Data Cleaning & Advanced Querying
 
