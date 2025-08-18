@@ -64,7 +64,7 @@ Work with multiple joins to extract and combine information from different sourc
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
 | [Notebook 20](/notebooks/20_multiple_joins.ipynb) | Lecture | Multiple Joins | Advanced British Airways |
-| 21 | Lecture | Left Join & Missing Keys | Advanced British Airways |
+| [Notebook 21](/notebooks/21_left_joins_missing_keys.ipynb) | Lecture | Left Join & Missing Keys | Advanced British Airways |
 | 22 | Lecture | Subqueries | Advanced British Airways |
 | 23 | Lecture | SQL Practice | Chinook |
 | 24 | Challenge | British Airways I | Advanced British Airways |
