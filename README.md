@@ -69,7 +69,7 @@ Work with multiple joins to extract and combine information from different sourc
 | [Notebook 23](/notebooks/23_practice_chinook.ipynb) | Lecture | SQL Practice | Chinook |
 | [Notebook 24](/notebooks/24_exercises_multi_joins.ipynb) | Exercises | Multi Joins in Actions | Advanced British Airways |
 | [Notebook 25](/notebooks/25_challenge_advanced_british_airways_1.ipynb) | Challenge | British Airways I | Advanced British Airways |
-| 26 | Challenge | British Airways II | Advanced British Airways |
+| [Notebook 26](/notebooks/26_challenge_advanced_british_airways_2.ipynb) | Challenge | British Airways II | Advanced British Airways |
 
 ## Sprint 2: Data Cleaning & Advanced Querying
 
