@@ -78,6 +78,6 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
 | [Notebook 27](/notebooks/27_handling_messy_data_1.ipynb) | Lecture | Handling Messy Data Pt 1 | Advanced Meta |
-| 28 | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
+| [Notebook 28](/notebooks/28_handling_messy_data_2.ipynb) | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
 | 29 | Lecture | Windows Functions | tbd |
 | 30 | Lecture | WITH Statements / CTEs | tbd |
