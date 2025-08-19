@@ -26,8 +26,8 @@ Work with aggregations to summarize data effectively. Learn how to create custom
 | [Notebook 05](/notebooks/05_aggregation.ipynb) | Lecture | Aggregation | Chinook |
 | [Notebook 06](/notebooks/06_group_by.ipynb) | Lecture | Group by | Chinook |
 | [Notebook 07](/notebooks/07_intro_to_joins.ipynb) | Lecture | Intro to JOINS | Chinook |
-| [Notebook 08](/notebooks/08_challenge_meta_revenue_1.ipynb) | Challenge | Meta Revenue I | Meta Revenue |
-| [Notebook 09](/notebooks/09_challenge_meta_revenue_2.ipynb) | Challenge | Meta Revenue II | Meta Revenue |
+| [Notebook 08](/notebooks/08_challenge_meta_revenue_1.ipynb) | Challenge | Meta Revenue I | Meta |
+| [Notebook 09](/notebooks/09_challenge_meta_revenue_2.ipynb) | Challenge | Meta Revenue II | Meta |
 | [Notebook 10](/notebooks/10_challenge_british_airways_2.ipynb) | Challenge | British Airways II | British Airways |
 
 ### Sprint 3: Working with Multiple Tables
@@ -52,7 +52,7 @@ This sprint also includes targeted practice notebooks focused on core SQL concep
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
 | [Notebook 17](/notebooks/17_challenge_british_airways_3.ipynb) | Challenge | British Airways III | British Airways |
-| [Notebook 18](/notebooks/18_challenge_meta_revenue_3.ipynb) | Challenge | Meta Revenue III | Meta Revenue |
+| [Notebook 18](/notebooks/18_challenge_meta_revenue_3.ipynb) | Challenge | Meta Revenue III | Meta |
 | [Notebook 19](/notebooks/19_challenge_nike_3.ipynb) | Challenge | Nike III | Nike |
 
 ## Advanced SQL
@@ -77,4 +77,7 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 
 | Notebook | Type | Topic | Dataset(s) |
 | --- | --- | --- | --- |
-| tbd | tbd | tbd | tbd |
+| 27 | Lecture | Handling Messy Data Pt 1 | Advanced Meta |
+| 28 | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
+| 29 | Lecture | Windows Functions | tbd |
+| 30 | Lecture | WITH Statements / CTEs | tbd |
