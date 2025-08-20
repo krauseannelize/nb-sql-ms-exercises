@@ -79,5 +79,5 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | --- | --- | --- | --- |
 | [Notebook 27](/notebooks/27_handling_messy_data_1.ipynb) | Lecture | Handling Messy Data Pt 1 | Advanced Meta |
 | [Notebook 28](/notebooks/28_handling_messy_data_2.ipynb) | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
-| 29 | Lecture | Windows Functions | tbd |
+| [Notebook 29](/notebooks/29_window_functions.ipynb) | Lecture | Windows Functions | Advanced Nike |
 | 30 | Lecture | WITH Statements / CTEs | tbd |
