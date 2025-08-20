@@ -1,5 +1,15 @@
 # SQL Notes | Masterschool Exercises
 
+## Tools & Skills Used
+
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-%233298DA)
+![SQL](https://img.shields.io/badge/SQL-Aggregations-%233298DA)
+![SQL](https://img.shields.io/badge/SQL-JOINs-%233298DA)
+![SQL](https://img.shields.io/badge/SQL-subqueries-%233298DA)
+![SQL](https://img.shields.io/badge/SQL-data%20cleaning-%233298DA)
+![SQL](https://img.shields.io/badge/SQL-window%20functions%20and%20CTE-%233298DA)
+![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Interactive%20Analysis-%23c35817)
+
 ## About This Repo
 
 This is my personal SQL learning journal from the Masterschool Data Analytics program. It includes hands-on exercises, challenges, and practice notebooks organized by sprint. Each notebook reflects a different stage in my learning journey—from basic queries to advanced data manipulation.
@@ -81,3 +91,9 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | [Notebook 28](/notebooks/28_handling_messy_data_2.ipynb) | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
 | [Notebook 29](/notebooks/29_window_functions.ipynb) | Lecture | Windows Functions | Advanced Nike |
 | 30 | Lecture | WITH Statements / CTEs | tbd |
+| 31 | Exercises | WITH Statements and Subqueries | Advanced Nike |
+| 32 | Challenge | Meta I | Advanced Meta |
+| 33 | Challenge | Nike I | Advanced Nike |
+| 34 | Challenge | Meta II | Advanced Meta |
+| 35 | Challenge | Nike II | Advanced Nike |
+| 36 | Challenge | Nike III | Advanced Nike |
