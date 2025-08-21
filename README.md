@@ -93,7 +93,7 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | [Notebook 30](/notebooks/30_with_statements_ctes.ipynb) | Lecture | WITH Statements & CTEs | Advanced Nike |
 | [Notebook 31](/notebooks/31_exercises_with_statements_subqueries.ipynb) | Exercises | WITH Statements & Subqueries | Advanced Nike |
 | [Notebook 32](/notebooks/32_challenge_advanced_meta_1.ipynb) | Challenge | Meta I | Advanced Meta |
-| 33 | Challenge | Nike I | Advanced Nike |
+| [Notebook 33](/notebooks/33_challenge_advanced_nike_1.ipynb) | Challenge | Nike I | Advanced Nike |
 | 34 | Challenge | Meta II | Advanced Meta |
 | 35 | Challenge | Nike II | Advanced Nike |
 | 36 | Challenge | Nike III | Advanced Nike |
