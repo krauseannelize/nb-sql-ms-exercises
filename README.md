@@ -90,7 +90,7 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | [Notebook 27](/notebooks/27_handling_messy_data_1.ipynb) | Lecture | Handling Messy Data Pt 1 | Advanced Meta |
 | [Notebook 28](/notebooks/28_handling_messy_data_2.ipynb) | Lecture | Handling Messy Data Pt 2 | Advanced Meta |
 | [Notebook 29](/notebooks/29_window_functions.ipynb) | Lecture | Windows Functions | Advanced Nike |
-| 30 | Lecture | WITH Statements / CTEs | tbd |
+| [Notebook 30](/notebooks/30_with_statements_ctes.ipynb) | Lecture | WITH Statements & CTEs | Advanced Nike |
 | [Notebook 31](/notebooks/31_exercises_with_statements_subqueries.ipynb) | Exercises | WITH Statements & Subqueries | Advanced Nike |
 | [Notebook 32](/notebooks/32_challenge_advanced_meta_1.ipynb) | Challenge | Meta I | Advanced Meta |
 | 33 | Challenge | Nike I | Advanced Nike |
