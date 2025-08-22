@@ -95,5 +95,5 @@ Handle messy text data, date manipulation, and numerical transformations. Learn 
 | [Notebook 32](/notebooks/32_challenge_advanced_meta_1.ipynb) | Challenge | Meta I | Advanced Meta |
 | [Notebook 33](/notebooks/33_challenge_advanced_nike_1.ipynb) | Challenge | Nike I | Advanced Nike |
 | [Notebook 34](/notebooks/34_challenge_advanced_meta_2.ipynb) | Challenge | Meta II | Advanced Meta |
-| 35 | Challenge | Nike II | Advanced Nike |
+| [Notebook 35](/notebooks/35_challenge_advanced_nike_2.ipynb) | Challenge | Nike II | Advanced Nike |
 | 36 | Challenge | Nike III | Advanced Nike |
