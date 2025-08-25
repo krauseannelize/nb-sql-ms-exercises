@@ -12,7 +12,7 @@
 
 ## About This Repo
 
-This is my personal SQL learning journal from the Masterschool Data Analytics program. It includes hands-on exercises, challenges, and practice notebooks organized by sprint. Each notebook reflects a different stage in my learning journey—from basic queries to advanced data manipulation.
+This is my personal SQL learning journal from the Masterschool Data Analytics program. It includes hands-on exercises, challenges, and practice notebooks organized by sprint. Each notebook reflects a different stage in my learning journey from basic queries to advanced data manipulation.
 
 ## Basic & Intermediate SQL
 
